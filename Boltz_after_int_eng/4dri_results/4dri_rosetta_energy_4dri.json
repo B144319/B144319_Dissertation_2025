@@ -1,0 +1,162 @@
+{
+    "boltz_results_4dri_pose1_11_comb_1": {
+        "dG": -4.201327381138867,
+        "sc": 0.6913263201713562,
+        "interface_hbonds": 1,
+        "interface_packstat": 0.7011111020594959,
+        "dSASA": 605.4573238751824,
+        "dG_SASA_ratio": -0.6939097464786781
+    },
+    "boltz_results_4dri_pose5_55_comb_1": {
+        "dG": -19.846914579697795,
+        "sc": 0.4449899047613144,
+        "interface_hbonds": 8,
+        "interface_packstat": 0.6165017788295668,
+        "dSASA": 1336.6800484117064,
+        "dG_SASA_ratio": -1.484791712368315
+    },
+    "boltz_results_4dri_pose5_40_comb_1": {
+        "dG": -13.46213025267241,
+        "sc": 0.5639798045158386,
+        "interface_hbonds": 5,
+        "interface_packstat": 0.6744022676842967,
+        "dSASA": 998.8124321761272,
+        "dG_SASA_ratio": -1.3478136453850769
+    },
+    "boltz_results_4dri_pose2_9_comb_3": {
+        "dG": -7.10247499682896,
+        "sc": 0.5368077158927917,
+        "interface_hbonds": 3,
+        "interface_packstat": 0.6220500079823217,
+        "dSASA": 813.15951010601,
+        "dG_SASA_ratio": -0.8734417919926959
+    },
+    "boltz_results_4dri_pose5_40_comb_2": {
+        "dG": -11.244204491893697,
+        "sc": 0.4411538988351822,
+        "interface_hbonds": 3,
+        "interface_packstat": 0.6069466534663778,
+        "dSASA": 1401.7257314058638,
+        "dG_SASA_ratio": -0.8021686582450261
+    },
+    "boltz_results_4dri_pose1_11_comb_3": {
+        "dG": -14.821691535872901,
+        "sc": 0.6253629624843597,
+        "interface_hbonds": 5,
+        "interface_packstat": 0.6810061381714309,
+        "dSASA": 981.7953633709182,
+        "dG_SASA_ratio": -1.5096518163401969
+    },
+    "boltz_results_4dri_pose3_24_comb_2": {
+        "dG": -8.451448629053402,
+        "sc": 0.5898245573043823,
+        "interface_hbonds": 3,
+        "interface_packstat": 0.6473801348540823,
+        "dSASA": 689.6849510506477,
+        "dG_SASA_ratio": -1.2254071393291517
+    },
+    "boltz_results_4dri_pose1_11_comb_5": {
+        "dG": -8.742907815372519,
+        "sc": 0.44687268137931824,
+        "interface_hbonds": 3,
+        "interface_packstat": 0.6588684982627729,
+        "dSASA": 869.3434971411864,
+        "dG_SASA_ratio": -1.0056908280930776
+    },
+    "boltz_results_4dri_pose3_87_comb_1": {
+        "dG": -11.230878168494655,
+        "sc": 0.4902600795030594,
+        "interface_hbonds": 3,
+        "interface_packstat": 0.667215144478294,
+        "dSASA": 1008.4465332918523,
+        "dG_SASA_ratio": -1.1136810725933004
+    },
+    "boltz_results_4dri_pose2_9_comb_1": {
+        "dG": -26.11380202412579,
+        "sc": 0.45211151242256165,
+        "interface_hbonds": 2,
+        "interface_packstat": 0.5466366916403659,
+        "dSASA": 1684.5288923586847,
+        "dG_SASA_ratio": -1.5502139584890782
+    },
+    "boltz_results_4dri_pose2_9_comb_4": {
+        "dG": -9.4061538723289,
+        "sc": 0.524993509054184,
+        "interface_hbonds": 5,
+        "interface_packstat": 0.6408348705552984,
+        "dSASA": 1047.9594611067723,
+        "dG_SASA_ratio": -0.8975684863224442
+    },
+    "boltz_results_4dri_pose3_24_comb_3": {
+        "dG": -16.02978729646304,
+        "sc": 0.46753333508968353,
+        "interface_hbonds": 3,
+        "interface_packstat": 0.6520284452686842,
+        "dSASA": 1196.6888103261908,
+        "dG_SASA_ratio": -1.339511755950461
+    },
+    "boltz_results_4dri_pose3_24_comb_1": {
+        "dG": -10.096450993701865,
+        "sc": 0.6709474623203278,
+        "interface_hbonds": 3,
+        "interface_packstat": 0.6130048216286922,
+        "dSASA": 977.8905576279782,
+        "dG_SASA_ratio": -1.0324724903973241
+    },
+    "boltz_results_4dri_pose2_9_comb_2": {
+        "dG": -16.002058266951963,
+        "sc": 0.5402287244796753,
+        "interface_hbonds": 4,
+        "interface_packstat": 0.5869992086557093,
+        "dSASA": 1241.4719265934139,
+        "dG_SASA_ratio": -1.2889585277100422
+    },
+    "boltz_results_4dri_pose1_11_comb_4": {
+        "dG": -11.044898832048489,
+        "sc": 0.39188750088214874,
+        "interface_hbonds": 3,
+        "interface_packstat": 0.631399677589148,
+        "dSASA": 1190.798836063957,
+        "dG_SASA_ratio": -0.9275201232607919
+    },
+    "boltz_results_4dri_pose2_9_comb_7": {
+        "dG": -3.671209932837087,
+        "sc": 0.45007944107055664,
+        "interface_hbonds": 1,
+        "interface_packstat": 0.6332955206625182,
+        "dSASA": 881.6148993549397,
+        "dG_SASA_ratio": -0.4164187714526194
+    },
+    "boltz_results_4dri_pose3_87_comb_2": {
+        "dG": -5.713174062176336,
+        "sc": 0.47190937399864197,
+        "interface_hbonds": 6,
+        "interface_packstat": 0.6403806179288192,
+        "dSASA": 1016.5550615009569,
+        "dG_SASA_ratio": -0.5620132424249366
+    },
+    "boltz_results_4dri_pose2_9_comb_6": {
+        "dG": -7.954979579939277,
+        "sc": 0.5613636672496796,
+        "interface_hbonds": 2,
+        "interface_packstat": 0.6940088905478067,
+        "dSASA": 943.4066370337923,
+        "dG_SASA_ratio": -0.843218530341369
+    },
+    "boltz_results_4dri_pose2_9_comb_5": {
+        "dG": -14.721363348291902,
+        "sc": 0.5538093745708466,
+        "interface_hbonds": 4,
+        "interface_packstat": 0.6714709538952086,
+        "dSASA": 1214.2469156854809,
+        "dG_SASA_ratio": -1.2123863077701313
+    },
+    "boltz_results_4dri_pose1_11_comb_2": {
+        "dG": -13.41641592926112,
+        "sc": 0.33066658675670624,
+        "interface_hbonds": 4,
+        "interface_packstat": 0.6473698408397794,
+        "dSASA": 1021.3481234778781,
+        "dG_SASA_ratio": -1.3135987251414099
+    }
+}

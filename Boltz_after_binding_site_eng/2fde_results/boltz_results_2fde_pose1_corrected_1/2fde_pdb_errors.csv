@@ -1,0 +1,5 @@
+prot,error
+lightning_logs,[Errno 2] No such file or directory: '/home/s_alya/research_project/Boltz2_results/2fde_results/boltz_results_2fde_pose1_corrected_1/lightning_logs/predictions'
+msa,[Errno 2] No such file or directory: '/home/s_alya/research_project/Boltz2_results/2fde_results/boltz_results_2fde_pose1_corrected_1/msa/predictions'
+predictions,[Errno 2] No such file or directory: '/home/s_alya/research_project/Boltz2_results/2fde_results/boltz_results_2fde_pose1_corrected_1/predictions/predictions'
+processed,[Errno 2] No such file or directory: '/home/s_alya/research_project/Boltz2_results/2fde_results/boltz_results_2fde_pose1_corrected_1/processed/predictions'
