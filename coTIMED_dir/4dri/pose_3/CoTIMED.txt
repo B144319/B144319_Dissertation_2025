@@ -1,0 +1,4 @@
+ignore_uncommon False
+include_pdbs
+##########
+4dri_pose3_corrected 217

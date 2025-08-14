@@ -1,0 +1,4 @@
+ignore_uncommon False
+include_pdbs
+##########
+2fde_pose4_corrected 198
