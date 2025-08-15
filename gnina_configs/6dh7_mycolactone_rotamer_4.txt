@@ -1,0 +1,6 @@
+receptor = /home/s_alya/research_project/cleaned_proteins_pdbs/6dh7_cleaned.pdb
+ligand = /home/s_alya/research_project/mycolactone_rotamers/mycolactone_rotamer_4.sdf
+autobox_ligand = /home/s_alya/research_project/original_ligands/og_lig_6dh7.mol2
+out = /home/s_alya/research_project/6dh7_mycolactone_rotamer_4_docked.pdb
+num_modes = 5
+exhaustiveness = 8
